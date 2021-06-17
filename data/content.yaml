@@ -32,11 +32,12 @@ Experience:
       - Title: Software Architect
         Date: Jan 2008 - Aug 2020
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+          - Leader & member of Software Architecture Board
+          - Organize a hacker group to share knowledge
+          - Design & develop a deployment system (DeployBa)
+          - Design & develop a tool for time tracking
+          - Design & develop a metadata model for IT Governement
+        Badges: ['Java', 'Maven', 'Thymeleaf', 'Rochade', 'AsciiDoc']
 
 Education:
   - Course: Diploma in Business Informatics (BA)
@@ -53,10 +54,11 @@ Skills:
       - SQL
       - Bash
       - Helm
+      - RPL
   - Family: Frameworks
     Items:
       - Spring Boot
-      - React
+      - Thymeleaf
   - Family: Developer Tools
     Items:
       - Git
@@ -64,6 +66,7 @@ Skills:
       - Jenkins
       - GitHub Actions
       - Circle CI
+      - K8S
   - Family: Misc
     Items:
       - AsciiDoc
@@ -71,6 +74,7 @@ Skills:
       - Domain Driven Design
       - Behavior Driven Design
       - Scrum
+      - Rochade (Metadata Repository)
 
 Languages:
   - Name: German
